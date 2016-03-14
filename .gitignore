@@ -18,5 +18,3 @@
 /public/assets
 
 # Ignore YML configs
-/config/database.yml
-/config/application.yml
