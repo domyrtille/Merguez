@@ -2,7 +2,7 @@
 lock '3.4.0'
 
 set :application, 'aircall-test'
-set :repo_url, 'https://github.com/aircall/devops-test.git'
+set :repo_url, 'https://github.com/domyrtille/Merguez'
 
 # Default branch is :master
 #ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
